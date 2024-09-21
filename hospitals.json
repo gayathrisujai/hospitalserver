@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "General Hospital",
+    "patientCount": 190,
+    "location": "Thrissur"
+  },
+  {
+    "id": 2,
+    "name": "KIMS Hospital",
+    "patientCount": 500,
+    "location": "Delhi"
+  },
+  {
+    "id": 3,
+    "name": "Rajagiri Hospital",
+    "patientCount": 200,
+    "location": "Aluva"
+  },
+  {
+    "id": 4,
+    "name": "Aster Medicity",
+    "patientCount": 600,
+    "location": "EKM"
+  }
+]
